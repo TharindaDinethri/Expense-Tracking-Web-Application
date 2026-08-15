@@ -340,21 +340,7 @@ mvn clean test
 
 The test suite includes service-level tests for expense creation and dashboard calculations. The project also includes Spring Boot Test and Spring Security Test dependencies so additional controller/integration tests can be expanded easily.
 
-## 16. GitHub Submission
-
-Create a public repository and push this project:
-
-```bash
-git init
-git add .
-git commit -m "Initial SLTS expense tracker implementation"
-git branch -M main
-git remote add origin YOUR_GITHUB_REPOSITORY_URL
-git push -u origin main
-```
-
-
-## 17. Assessment Requirement Mapping
+## 16. Assessment Requirement Mapping
 
 
 | Assessment requirement       | Implementation |
